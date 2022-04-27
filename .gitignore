@@ -127,3 +127,4 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+trailhead/data/GoogleNews-vectors-negative300.bin.gz
